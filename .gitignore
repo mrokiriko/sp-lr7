@@ -1,2 +1,4 @@
-node_modules
-package-lock.json
+tcp/node_modules
+tcp/package-lock.json
+udp/node_modules
+udp/package-lock.json
